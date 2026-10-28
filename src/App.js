@@ -85,7 +85,7 @@ function App() {
   return (
     <div className="site-shell">
       <header className="site-header">
-        <a className="wordmark" href="#top" aria-label="Vivek Madaram, home">VM<span>.</span></a>
+        <a className="wordmark" href="#top" aria-label="Vivek Madaram, home">Vivek Madaram<span>.</span></a>
         <nav aria-label="Main navigation">
           <a href="#experience">Experience</a>
           <a href="#expertise">Expertise</a>
