@@ -97,7 +97,7 @@ function App() {
       <main id="top">
         <section className="hero" aria-labelledby="hero-title">
           <div className="hero-copy">
-            <p className="eyebrow"><span className="availability-dot" /> HYDERABAD, INDIA · AVAILABLE FOR THE RIGHT OPPORTUNITY</p>
+            <p className="eyebrow"><span className="availability-dot" /> HYDERABAD, TELANGANA, INDIA</p>
             <h1 id="hero-title">Engineering<br />teams and <em>ideas</em><br />into impact.</h1>
             <p className="hero-intro">I’m Vivek Madaram, a team lead and senior full stack engineer building dependable, enterprise-scale products with thoughtful teams.</p>
             <div className="hero-actions">
